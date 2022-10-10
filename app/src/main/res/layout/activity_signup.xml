@@ -22,7 +22,8 @@
         android:layout_below="@+id/image"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SIGN UP"
+        android:text=" SIGN UP "
+        android:background="@drawable/signupbackground"
         android:textSize="20sp"
         android:textStyle="bold"
         android:layout_centerHorizontal="true"
@@ -35,62 +36,34 @@
        android:layout_width="318dp"
        android:layout_height="wrap_content"
        android:orientation="vertical"
-
        android:layout_centerHorizontal="true"
        android:layout_below="@+id/signup">
 
 
-       <androidx.cardview.widget.CardView
-           android:id="@+id/card1"
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content"
-           app:cardElevation="10dp"
-           app:cardCornerRadius="20dp"
-           android:padding="10dp"
-           android:layout_below="@+id/signup"
-           app:cardBackgroundColor="@color/white"
-           app:cardMaxElevation="12dp"
-           app:cardPreventCornerOverlap="true"
-           app:cardUseCompatPadding="true"
-           >
            <EditText
                android:id="@+id/username"
-               android:layout_width="wrap_content"
-               android:layout_height="wrap_content"
+               android:layout_width="300dp"
+               android:layout_height="60dp"
                android:hint="Username"
                android:gravity="center"
                android:layout_gravity="bottom|center_horizontal"
-               android:layout_marginTop="5dp"
+               android:layout_marginTop="30dp"
                android:layout_marginBottom="20dp"
+               android:background="@drawable/background"
                android:inputType="textEmailAddress"
                android:textSize="20sp"
                android:textStyle="bold"
                />
 
-
-
-       </androidx.cardview.widget.CardView>
-       <androidx.cardview.widget.CardView
-           android:id="@+id/card2"
-           android:layout_below="@+id/card1"
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content"
-           app:cardElevation="10dp"
-           app:cardCornerRadius="20dp"
-           android:padding="10dp"
-           app:cardBackgroundColor="@color/white"
-           app:cardMaxElevation="12dp"
-           app:cardPreventCornerOverlap="true"
-           app:cardUseCompatPadding="true"
-           >
            <EditText
                android:id="@+id/password"
-               android:layout_width="wrap_content"
-               android:layout_height="wrap_content"
+               android:layout_width="300dp"
+               android:layout_height="60dp"
                android:hint="Password"
                android:layout_gravity="bottom|center_horizontal"
                android:layout_marginTop="5dp"
                android:layout_marginBottom="20dp"
+               android:background="@drawable/background"
                android:gravity="center"
                android:inputType="textPassword"
                android:textSize="20sp"
@@ -99,29 +72,16 @@
 
 
 
-       </androidx.cardview.widget.CardView>
 
-       <androidx.cardview.widget.CardView
-           android:id="@+id/card3"
-           android:layout_below="@+id/card2"
-           android:layout_width="match_parent"
-           android:layout_height="wrap_content"
-           app:cardElevation="10dp"
-           app:cardCornerRadius="20dp"
-           android:padding="10dp"
-           app:cardBackgroundColor="@color/white"
-           app:cardMaxElevation="12dp"
-           app:cardPreventCornerOverlap="true"
-           app:cardUseCompatPadding="true"
-           >
            <EditText
                android:id="@+id/password2"
-               android:layout_width="wrap_content"
-               android:layout_height="wrap_content"
+               android:layout_width="300dp"
+               android:layout_height="60dp"
                android:hint="Re-Enter Password"
                android:layout_gravity="bottom|center_horizontal"
                android:layout_marginTop="5dp"
                android:layout_marginBottom="20dp"
+               android:background="@drawable/background"
                android:gravity="center"
                android:inputType="textPassword"
                android:textSize="20sp"
@@ -130,7 +90,6 @@
 
 
 
-       </androidx.cardview.widget.CardView>
 
 
        <TextView
@@ -154,7 +113,18 @@
         android:layout_centerHorizontal="true"
         android:text="Sign Up"
         android:layout_marginTop="10dp"
-        android:background="#DAF37F22"
+      android:background="@drawable/buttonbackground"
         />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_100sdp"
+        android:layout_below="@+id/signupz"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="@dimen/_100sdp"
+        android:text="Powered By Gursahib"
+        android:gravity="right"
+        android:textSize="@dimen/_15sdp"
+        android:layout_marginRight="@dimen/_10sdp"/>
 
 </RelativeLayout>

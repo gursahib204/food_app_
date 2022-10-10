@@ -56,7 +56,7 @@ public class MainActivity2 extends AppCompatActivity {
                 else{
                     Boolean checkuserpass = DB.checkusernamepassword(user, pass);
                     if(checkuserpass==true){
-                        Toast.makeText(MainActivity2.this, "Sign in successfull", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity2.this, "Login in successfull", Toast.LENGTH_SHORT).show();
                         Intent i = new Intent(getApplicationContext(), DisplayOfMenu.class);
                         startActivity(i);
                         Bungee.inAndOut(MainActivity2.this);

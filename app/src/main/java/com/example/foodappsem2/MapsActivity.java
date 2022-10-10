@@ -44,50 +44,66 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         mMap = googleMap;
 
         // Add a marker in foodland and move the camera
-        LatLng foodland = new LatLng( 43.715032, -79.748989);
+       /* LatLng foodland = new LatLng( 43.715032, -79.748989);
         mMap.addMarker(new MarkerOptions().position(foodland).title("Marker in Food Land"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(foodland));
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(foodland, 10f));
         googleMap.getUiSettings().setZoomGesturesEnabled(true);
-        googleMap.getUiSettings().setRotateGesturesEnabled(true);
+        googleMap.getUiSettings().setRotateGesturesEnabled(true);*/
 
 
         // Add a marker in foodland1 and move the camera
-        LatLng foodland1 = new LatLng( 43.865058, -79.861207);
+        /*LatLng foodland1 = new LatLng( 43.865058, -79.861207);
         mMap.addMarker(new MarkerOptions().position(foodland1).title("Marker in Food Land"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(foodland1));
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(foodland1, 10f));
         googleMap.getUiSettings().setZoomGesturesEnabled(true);
         googleMap.getUiSettings().setRotateGesturesEnabled(true);
-
+*/
 
         // Add a marker in foodland2 and move the camera
-        LatLng foodland2 = new LatLng( 43.903718,  -80.011889);
+     /*   LatLng foodland2 = new LatLng( 43.903718,  -80.011889);
         mMap.addMarker(new MarkerOptions().position(foodland2).title("Marker in Food Land"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(foodland2));
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(foodland2, 10f));
         googleMap.getUiSettings().setZoomGesturesEnabled(true);
         googleMap.getUiSettings().setRotateGesturesEnabled(true);
 
-
+*/
 
         // Add a marker in foodland3 and move the camera
-        LatLng foodland3 = new LatLng( 43.892646, -80.092044);
+        /*LatLng foodland3 = new LatLng( 43.892646, -80.092044);
         mMap.addMarker(new MarkerOptions().position(foodland3).title("Marker in Food Land"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(foodland3));
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(foodland3, 10f));
         googleMap.getUiSettings().setZoomGesturesEnabled(true);
         googleMap.getUiSettings().setRotateGesturesEnabled(true);
 
-
+*/
 
         // Add a marker in foodland4 and move the camera
-        LatLng foodland4 = new LatLng( 44.034787, -80.178178);
+      /*  LatLng foodland4 = new LatLng( 44.034787, -80.178178);
         mMap.addMarker(new MarkerOptions().position(foodland4).title("Marker in Food Land"));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(foodland4));
         mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(foodland4, 10f));
         googleMap.getUiSettings().setZoomGesturesEnabled(true);
-        googleMap.getUiSettings().setRotateGesturesEnabled(true);
+        googleMap.getUiSettings().setRotateGesturesEnabled(true);*/
 
+
+        Dipslaylocation(44.034787,-80.178178);
+        Dipslaylocation(43.715032, -79.748989);
+        Dipslaylocation(44.034787,-80.178178);
+        Dipslaylocation(44.034787,-80.17817);
+    }
+
+
+    public void Dipslaylocation(double lat,double longtitude){
+
+        LatLng foodland4 = new LatLng( 44.034787, -80.178178);
+        mMap.addMarker(new MarkerOptions().position(foodland4).title("Marker in Food Land"));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(foodland4));
+        mMap.animateCamera(CameraUpdateFactory.newLatLngZoom(foodland4, 10f));
+        mMap.getUiSettings().setZoomGesturesEnabled(true);
+        mMap.getUiSettings().setRotateGesturesEnabled(true);
     }
 }
