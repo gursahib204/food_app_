@@ -9,7 +9,7 @@ this App is developed by "Gursahib Singh Sahni"
 5) using map to locate the location of store 
 6) fetching the google map to use the directions 
 
-
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 ![Screenshot_1664564146](https://user-images.githubusercontent.com/105225210/193338505-91e97f8d-4bd4-4f0d-aa1b-c9960a7029d9.png)
 ![Screenshot_1664564148](https://user-images.githubusercontent.com/105225210/193338766-41230ede-8e6f-4712-a09c-93d74439780c.png)
 ![Screenshot_1664564151](https://user-images.githubusercontent.com/105225210/193338774-d8b94d98-6a17-4fe5-9729-5fa315b86352.png)
