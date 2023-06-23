@@ -7,7 +7,10 @@ this App is developed by "Gursahib Singh Sahni"
 3) use of camera and store pic in gallery
 4) picking image from gallery
 5) using map to locate the location of store 
-6) fetching the google map to use the directions 
+6) fetching the google map to use the directions
+
+ ![Screenshot_1687494514](https://github.com/gursahib204/food_app_sem_2/assets/105225210/487dd461-e837-4341-a0ed-47410c4a92b0)
+
 
 ![Screenshot_1664564146](https://user-images.githubusercontent.com/105225210/193338505-91e97f8d-4bd4-4f0d-aa1b-c9960a7029d9.png)
 ![Screenshot_1664564148](https://user-images.githubusercontent.com/105225210/193338766-41230ede-8e6f-4712-a09c-93d74439780c.png)
