@@ -9,26 +9,29 @@ this App is developed by "Gursahib Singh Sahni"
 5) using map to locate the location of store 
 6) fetching the google map to use the directions
 
- 
-
-
-![Screenshot_1664564146](https://user-images.githubusercontent.com/105225210/193338505-91e97f8d-4bd4-4f0d-aa1b-c9960a7029d9.png)
-![Screenshot_1664564148](https://user-images.githubusercontent.com/105225210/193338766-41230ede-8e6f-4712-a09c-93d74439780c.png)
-![Screenshot_1664564151](https://user-images.githubusercontent.com/105225210/193338774-d8b94d98-6a17-4fe5-9729-5fa315b86352.png)
-![Screenshot_1664564153](https://user-images.githubusercontent.com/105225210/193338789-e38075eb-32e3-4976-877f-d43d0cea1c64.png)
-![Screenshot_1664564157](https://user-images.githubusercontent.com/105225210/193338804-2e3e9b63-4957-4818-942b-8491316e0e6d.png)
-![Screenshot_1664564160](https://user-images.githubusercontent.com/105225210/193338817-6d69f63d-5d2a-4ea8-8268-dae37efd71ca.png)
-![Screenshot_1664564172](https://user-images.githubusercontent.com/105225210/193338828-7e72a5ed-7d58-496e-9a0f-6eec8cc5c0d8.png)
-![Screenshot_1664564177](https://user-images.githubusercontent.com/105225210/193338844-1156295c-65ad-4b3e-add4-2f72235c44d4.png)
-![Screenshot_1664564179](https://user-images.githubusercontent.com/105225210/193338854-946fee48-d6aa-46d5-b4db-3487cd3bbd0a.png)
-![Screenshot_1664564183](https://user-images.githubusercontent.com/105225210/193338861-27b51c74-cbf0-4ee9-a356-6a40049fe509.png)
-![Screenshot_1664564186](https://user-images.githubusercontent.com/105225210/193338865-da5c6351-cd7e-4bc5-a5db-8d1c6c3cd88f.png)
-![Screenshot_1664564197](https://user-images.githubusercontent.com/105225210/193338876-2d7cef41-35c9-4142-81e6-8d09f4e069ed.png)
-![Screenshot_1664564206](https://user-images.githubusercontent.com/105225210/193338888-01fd672a-86ff-4eb7-b282-78c86954ec76.png)
-![Screenshot_1664564212](https://user-images.githubusercontent.com/105225210/193338893-2b25416b-5f02-4122-a041-ed93239924bb.png)
-![Screenshot_1664564216](https://user-images.githubusercontent.com/105225210/193338899-5ee9ece8-1b4b-4e0d-8129-e5d1e2fdd5b1.png)
-![Screenshot_1664564219](https://user-images.githubusercontent.com/105225210/193338907-6c9b256b-9da1-4417-b91f-065f8284081d.png)
-![Screenshot_1664564224](https://user-images.githubusercontent.com/105225210/193338915-7d8239ae-cebe-4830-b10f-dea01a7af402.png)
-![Screenshot_1664564228](https://user-images.githubusercontent.com/105225210/193338929-b4816cc4-9d62-48ba-af3b-575a37f3fd98.png)
-![Screenshot_1664564230](https://user-images.githubusercontent.com/105225210/193338933-1c0620fd-d27e-4d55-8242-0bae21bef830.png)
-![Screenshot_1664564234](https://user-images.githubusercontent.com/105225210/193338937-3df24a98-506e-4975-b536-250eee4e3378.png)
+     <img src="https://github.com/gursahib204/food_app_sem_2/assets/105225210/95e23e6a-362d-4c0a-9d95-7eeb888769f8" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/food_app_sem_2/assets/105225210/d88ec3fc-f6d0-4a68-8061-844266f5936c" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/food_app_sem_2/assets/105225210/4194d06d-ded7-4a34-a4b8-c836a2977f6f" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/food_app_sem_2/assets/105225210/6fe5da8d-f767-478e-93da-153a5e5792d1" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/food_app_sem_2/assets/105225210/5bdf48e7-e1c9-4cda-aa0f-3eb3e547e9d2" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/food_app_sem_2/assets/105225210/dcf709e7-46d6-468b-a2d5-8c1c6709f68c" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/food_app_sem_2/assets/105225210/211490b7-ddd7-439d-a990-c70ab4e09bc0" 
+     width="350" 
+     height="500" />
+     <img src="https://github.com/gursahib204/food_app_sem_2/assets/105225210/0f059079-a2f4-435c-b7f6-992daa86a947" 
+     width="350" 
+     height="500" />
+     
+     
