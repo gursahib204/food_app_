@@ -1,4 +1,4 @@
-# food_app_sem_2
+# food_app
 food app
 this App is developed by "Gursahib Singh Sahni"
 
